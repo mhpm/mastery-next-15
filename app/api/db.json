@@ -1,0 +1,118 @@
+{
+  "users": [
+    {
+      "id": "8c9d",
+      "first_name": "Junius",
+      "last_name": "Wunsch",
+      "email": "Grant1@hotmail.com",
+      "avatar": "https://avatars.githubusercontent.com/u/13078553"
+    },
+    {
+      "id": "2586",
+      "first_name": "Russ",
+      "last_name": "Thompson",
+      "email": "Manley.Cormier@yahoo.com",
+      "avatar": "https://avatars.githubusercontent.com/u/75310247"
+    },
+    {
+      "id": "4c94",
+      "first_name": "Laverne",
+      "last_name": "Moore",
+      "email": "Brice22@hotmail.com",
+      "avatar": "https://avatars.githubusercontent.com/u/67918056"
+    },
+    {
+      "id": "8bdb",
+      "first_name": "Carlotta",
+      "last_name": "Fay",
+      "email": "Manuel17@yahoo.com",
+      "avatar": "https://avatars.githubusercontent.com/u/45253420"
+    },
+    {
+      "id": "d4b1",
+      "first_name": "Evans",
+      "last_name": "Koelpin",
+      "email": "Linnie_Breitenberg82@yahoo.com",
+      "avatar": "https://avatars.githubusercontent.com/u/69070529"
+    },
+    {
+      "id": "c880",
+      "first_name": "Alaina",
+      "last_name": "Spinka",
+      "email": "Meaghan42@yahoo.com",
+      "avatar": "https://avatars.githubusercontent.com/u/3066049"
+    },
+    {
+      "id": "f7b5",
+      "first_name": "Perry",
+      "last_name": "Lynch",
+      "email": "Brock_Halvorson@hotmail.com",
+      "avatar": "https://avatars.githubusercontent.com/u/85729203"
+    },
+    {
+      "id": "6640",
+      "first_name": "Arno",
+      "last_name": "Schneider",
+      "email": "Gerard10@hotmail.com",
+      "avatar": "https://avatars.githubusercontent.com/u/69972671"
+    }
+  ],
+  "news": [
+    {
+      "id": "2MrH",
+      "title": "Mayert, Kassulke and Rodriguez",
+      "content": "atque ex. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas assumenda architecto et, tempora molestiae molestias eos velit modi maiores laborum quae. Facere vel ducimus quo rem ratione! At, atque ex atque ex. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas assumenda architecto et, tempora molestiae molestias eos velit modi maiores laborum quae. Facere vel ducimus quo rem ratione! At, atque ex Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas assumenda architecto et, tempora molestiae molestias eos velit modi maiores laborum quae. Facere vel ducimus quo rem ratione! At, atque ex."
+    },
+    {
+      "id": "mIbZ",
+      "title": "Ullrich, Russel and Keebler",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas assumenda architecto et, tempora molestiae molestias eos velit modi maiores laborum quae. Facere vel ducimus quo rem ratione! At, atque ex."
+    },
+    {
+      "id": "n5O4",
+      "title": "Jacobi and Sons",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas assumenda architecto et, tempora molestiae molestias eos velit modi maiores laborum quae. Facere vel ducimus quo rem ratione! At, atque ex."
+    },
+    {
+      "id": "KRua",
+      "title": "Hodkiewicz, Mayert and Klocko",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas assumenda architecto et, tempora molestiae molestias eos velit modi maiores laborum quae. Facere vel ducimus quo rem ratione! At, atque ex."
+    },
+    {
+      "id": "0eLF",
+      "title": "Kozey Inc",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas assumenda architecto et, tempora molestiae molestias eos velit modi maiores laborum quae. Facere vel ducimus quo rem ratione! At, atque ex."
+    },
+    {
+      "id": "Gomz",
+      "title": "Jacobi and Sons",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas assumenda architecto et, tempora molestiae molestias eos velit modi maiores laborum quae. Facere vel ducimus quo rem ratione! At, atque ex."
+    },
+    {
+      "id": "qVSc",
+      "title": "O'Hara - Boyer",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas assumenda architecto et, tempora molestiae molestias eos velit modi maiores laborum quae. Facere vel ducimus quo rem ratione! At, atque ex."
+    },
+    {
+      "id": "45n6",
+      "title": "Bergnaum - Heaney",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas assumenda architecto et, tempora molestiae molestias eos velit modi maiores laborum quae. Facere vel ducimus quo rem ratione! At, atque ex."
+    },
+    {
+      "id": "gDq4",
+      "title": "Lowe, McDermott and Graham",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas assumenda architecto et, tempora molestiae molestias eos velit modi maiores laborum quae. Facere vel ducimus quo rem ratione! At, atque ex."
+    },
+    {
+      "id": "8kyL",
+      "title": "Stiedemann, Wilkinson and MacGyver",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas assumenda architecto et, tempora molestiae molestias eos velit modi maiores laborum quae. Facere vel ducimus quo rem ratione! At, atque ex."
+    }
+  ],
+  "books": [
+    {
+      "title": "Kozey Inc",
+      "author": "Michelle Perez"
+    }
+  ]
+}
